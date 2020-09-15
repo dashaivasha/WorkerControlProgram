@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAdmins xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Admins>
+    <Login>AdminDasha</Login>
+    <Pass>Dasha65</Pass>
+    <Fio>Иванова Дарья Игоревна</Fio>
+    <Organization>ИП "КрИво"</Organization>
+    <Email>dasha@gmail.com</Email>
+  </Admins>
+  <Admins>
+    <Login>AdminVika</Login>
+    <Pass>Vika11</Pass>
+    <Fio>Краснодубкая Виктория Алекандровна</Fio>
+    <Organization>ИП "КрИво"</Organization>
+    <Email>vikka@gmail.com</Email>
+  </Admins>
+  <Admins>
+    <Login>Krivo</Login>
+    <Pass>Krivo123</Pass>
+    <Fio>Криво Вика Игоревна</Fio>
+    <Organization>ИП "КрИво"</Organization>
+    <Email>Dashaandvikka@gmail.com</Email>
+  </Admins>
+  <Admins>
+    <Login>Dasha</Login>
+    <Pass>Dasha</Pass>
+    <Fio>dasha</Fio>
+    <Organization>dasha</Organization>
+    <Email>dadadad</Email>
+  </Admins>
+  <Admins>
+    <Login>vikka</Login>
+    <Pass>vikka</Pass>
+    <Fio>vikka</Fio>
+    <Organization>vikka</Organization>
+    <Email>vikka@vikka</Email>
+  </Admins>
+</ArrayOfAdmins>
